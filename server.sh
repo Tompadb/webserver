@@ -11,7 +11,7 @@ function check_figlet() {
        echo ""
        echo "You don't have figlet installed, please install it."
        echo "" 
-     exit 1    
+     exit 0    
      fi
 }
 
